@@ -24,7 +24,10 @@ function App() {
 
 const Home = () => {
   return (
-    <h1>Home Page</h1>
+    <div>
+      <h1>Welcome To Harrie's React Router Practice</h1>
+      <p>I am the lone wolf</p>
+    </div>
   );
 }
 
